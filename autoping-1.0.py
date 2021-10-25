@@ -15,7 +15,3 @@ def myping(host):
 # Porbamos la conexión con google
 print('Prueba de conexión con google')        
 print(myping("www.google.com"))
-
-# Servidores NTTDATA - MAPFRE (se requiere VPN activa)
-print('Servidores NTTDATA - MAPFRE (se requiere VPN activa)')
-print(myping("plastic"))
